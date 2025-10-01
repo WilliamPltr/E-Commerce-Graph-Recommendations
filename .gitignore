@@ -1,0 +1,15 @@
+# OS / éditeur
+.DS_Store
+.idea/
+.vscode/
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+.env
+
+# Neo4j data (volumes)
+neo4j/data/
+
+

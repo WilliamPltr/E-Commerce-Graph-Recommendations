@@ -1,0 +1,6 @@
+fastapi==0.115.4
+uvicorn[standard]==0.30.6
+psycopg2-binary==2.9.9
+neo4j==5.25.0
+
+
