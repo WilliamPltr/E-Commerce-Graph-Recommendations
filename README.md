@@ -47,7 +47,7 @@ docker compose run --rm checks
 ```
 
 
-### How to run (résumé, vocabulaire simple)
+### How to run
 
 1) Prérequis
 
